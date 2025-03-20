@@ -94,9 +94,7 @@ class JournalEntry {
         return 'Sad';
       case MoodType.terrible:
         return 'Terrible';
-      default:
-        return 'Neutral';
-    }
+      }
   }
   
   IconData getMoodIcon() {

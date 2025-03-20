@@ -167,9 +167,7 @@ class Transaction {
         return Colors.lightGreen;
       case TransactionCategory.other:
         return Colors.grey;
-      default:
-        return Colors.blueGrey;
-    }
+      }
   }
 }
 

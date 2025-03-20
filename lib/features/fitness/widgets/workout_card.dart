@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../../../core/theme/app_colors.dart';
 import '../models/workout.dart';
 
 class WorkoutCard extends StatelessWidget {
@@ -26,9 +25,7 @@ class WorkoutCard extends StatelessWidget {
         return Colors.green;
       case WorkoutType.custom:
         return Colors.teal;
-      default:
-        return AppColors.fitness;
-    }
+      }
   }
 
   String _getDifficultyText() {
