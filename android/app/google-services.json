@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549644688547",
+    "project_id": "daily-fusion",
+    "storage_bucket": "daily-fusion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549644688547:android:13f9739a24244ff7cf7316",
+        "android_client_info": {
+          "package_name": "com.example.dailyfusion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549644688547-a32n6g4okho4l1c5eb1seks438vdgqo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkuRVhc8It6-SLaXoPNnGRim-zJeyxO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549644688547-a32n6g4okho4l1c5eb1seks438vdgqo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
